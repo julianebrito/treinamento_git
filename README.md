@@ -1,2 +1,2 @@
 # treinamento_git
-repositório criado para o treinamento de GIT
+repositório criado para o treinamento de GIT.
